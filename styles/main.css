@@ -1,0 +1,41 @@
+body {
+    background: #FFF886;
+    color: #000;
+    font-family: 'Verdana', 'Arial', sans-serif;
+    }
+
+article {
+    width: 800px;
+    padding: 2rem;
+    margin: auto;
+    border: 1px solid;
+    background: #BCFF79;
+}
+
+header, footer {
+    background: #8AE87A;
+}
+
+aside {
+    background: #FFF886;
+}
+
+figure {
+    background: #86FF9A;
+}
+
+a:link {
+  color: #5C003F;
+}
+a:visited {
+  color: #690E05;
+}
+a:focus {
+  color: #440569;
+}
+a:hover {
+  color: #680673;
+}
+a:active {
+  color: #73061A;
+}
